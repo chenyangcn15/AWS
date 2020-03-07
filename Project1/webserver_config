@@ -1,0 +1,3 @@
+AMI_ID=ami-f15d4c91
+Security_Group_ID=sg-b3aedeca
+Scaler_Check_Interval=3000
